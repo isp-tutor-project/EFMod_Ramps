@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQvariables" itemID="5b956fd1-00000b2f" lastModified="1536520145">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQvariables">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="-1033.5" width="1824.45" height="217.6" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="135.3" ty="-349"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Below are some variables that might affect the speed of balls at the bottom of ramps. You can test one of these variables in&#xD;your experiment.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" left="-165.25" width="600.25" height="64.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-72.8" ty="-52.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Slope of the Ramp</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" top="-3.25" left="-142.45" width="632.15" height="67.95" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-99.6" ty="53.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Color of the Ball</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" left="-146.45" width="748.2" height="64.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-95.6" ty="161.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Starting Position of the Ball</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" left="-154.45" width="812.2" height="64.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-91.6" ty="273.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Surface Texture of the Ramp</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Bluearrow" name="var_slopeoframp">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.97430419921875" c="0.97430419921875" d="-0.22491455078125" tx="-321.7" ty="-21.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.65" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Bluearrow" name="var_colorofball">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.97430419921875" c="0.97430419921875" d="-0.22491455078125" tx="-322.95" ty="84.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.65" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Bluearrow" name="var_startingpositionofball">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.97430419921875" c="0.97430419921875" d="-0.22491455078125" tx="-314.95" ty="189.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.65" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Bluearrow" name="var_surfacetexture">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.97430419921875" c="0.97430419921875" d="-0.22491455078125" tx="-319.8" ty="303.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.65" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

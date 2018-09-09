@@ -1,0 +1,116 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/Ramps1" itemID="5afb2ada-000004a4" lastModified="1526409946">
+  <timeline>
+    <DOMTimeline name="Ramps1">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#660000"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-273 2341[-273 2370 -294 2391!-294 2391[-315 2412 -344 2412!-344 2412[-373 2412 -394 2391!-394 2391[-415 2370 -415 2341!-415 2341[-415 2312 -394 2291!-394 2291[-373 2270 -344 2270!-344 2270[-315 2270 -294 2291!-294 2291[-273 2312 -273
+ 2341"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/BGGridWall">
+                  <matrix>
+                    <Matrix a="0.695892333984375" d="0.695892333984375" tx="-275.85" ty="-205.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="396.45" y="295.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCue" centerPoint3DX="-101.05" centerPoint3DY="0.85">
+                  <matrix>
+                    <Matrix a="1.03305053710938" d="1.03305053710938" tx="-275.4" ty="-64.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="119.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBase Assets/CbaseNull" centerPoint3DX="-4.2" centerPoint3DY="72.95">
+                  <matrix>
+                    <Matrix a="0.870330810546875" d="0.89654541015625" tx="-40.2" ty="72.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="0.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineSmooth" centerPoint3DX="-120.85" centerPoint3DY="11.7">
+                  <matrix>
+                    <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="-217.35" ty="-55.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="149.5" y="5.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CGrab Assets/CGrabSolid" centerPoint3DX="-226.95" centerPoint3DY="-56.85">
+                  <matrix>
+                    <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="-226.9" ty="-56.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CGate Assets/CdoorSolid" name="Sdoor" cacheAsBitmap="true" centerPoint3DX="-182" centerPoint3DY="-36.45">
+                  <matrix>
+                    <Matrix a="0.656661987304688" b="0.4239501953125" c="-0.42462158203125" d="0.657699584960938" tx="-195.9" ty="-22.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="-25.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CGrab Assets/CGrabSolid" name="Sgrab" cacheAsBitmap="true" centerPoint3DX="-190.75" centerPoint3DY="-25.55">
+                  <matrix>
+                    <Matrix a="-0.42462158203125" b="0.657699584960938" c="-0.656661987304688" d="-0.4239501953125" tx="-190.75" ty="-25.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Misc Assets/CHinge" centerPoint3DX="-22.15" centerPoint3DY="75.4">
+                  <matrix>
+                    <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="-22.15" ty="75.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/CballRed" name="ball1" centerPoint3DX="-192.35" centerPoint3DY="-53.4">
+                  <matrix>
+                    <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="-196.35" ty="-72.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.25" y="17.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Speedgauge" selected="true">
+                  <matrix>
+                    <Matrix tx="-16.5" ty="149.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

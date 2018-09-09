@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/Ramp_startingtop_notsteep_yellowball" itemID="5afb2405-00000535" lastModified="1526408198" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="Ramp_startingtop_notsteep_yellowball">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0099CC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-1390 1985S1[93 1983 2932 1975!2932 1975[3577 1975 3946 1951!3946 1951[4197 1934 4646 1886!4646 1886[4212 1731 3604 1492!3604 1492[2561 1083 2002 921!2002 921[1772 855 1374 756!1374 756[913 641 743 595!743 595[5 394 -466 143!-466 143
+[-711 4 -835 -62!-835 -62[-971 -134 -1089 -178"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-1390 1985S6[-1481 1638 -1481 1258!-1481 1258[-1481 470 -1089 -178"/>
+                    <Edge cubics="!4646 1886(;3767,1578 2907,1183 2002,921q4646 1886Q4212 1731q3604 1492Q2561 1083q2002 921);"/>
+                    <Edge cubics="!2002 921(;1172,681 298,551 -466,143q2002 921Q1772 855q1374 756Q913 641q743 595Q5 394q-466 143);"/>
+                    <Edge cubics="!-466 143(;-670,34 -867,-95 -1089,-178q-466 143 -835 -62Q-971 -134q-1089 -178);"/>
+                    <Edge cubics="!-1390 1985(;52,1983 1493,1979 2932,1975q-1390 1985 2932 1975);"/>
+                    <Edge cubics="!2932 1975(;3270,1975 3608,1973 3946,1951q2932 1975Q3577 1975q3946 1951);"/>
+                    <Edge cubics="!3946 1951(;4181,1935 4415,1907 4646,1886q3946 1951Q4197 1934q4646 1886);"/>
+                    <Edge cubics="!-1390 1985(;-1451,1754 -1481,1511 -1481,1258q-1390 1985Q-1481 1638q-1481 1258);"/>
+                    <Edge cubics="!-1481 1258(;-1481,733 -1350,254 -1089,-178q-1481 1258Q-1481 470q-1089 -178);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/graybar" selected="true" centerPoint3DX="88.7" centerPoint3DY="95.6">
+                  <matrix>
+                    <Matrix a="1.74066162109375" d="1.7930908203125" tx="16.7" ty="94.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="0.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineSmooth" selected="true" centerPoint3DX="17.3" centerPoint3DY="21.85">
+                  <matrix>
+                    <Matrix a="1.49034118652344" b="0.479843139648438" c="-0.479843139648438" d="1.49034118652344" tx="-203.85" ty="-57.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="149.5" y="5.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CGrab Assets/CGrabSolid" selected="true" centerPoint3DX="-223.2" centerPoint3DY="-55.55">
+                  <matrix>
+                    <Matrix a="1.49034118652344" b="0.479843139648438" c="-0.479843139648438" d="1.49034118652344" tx="-223.15" ty="-55.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/CballYellow" name="ball1" selected="true" centerPoint3DX="-148.7" centerPoint3DY="-68.25">
+                  <matrix>
+                    <Matrix a="1.49034118652344" b="0.479843139648438" c="-0.479843139648438" d="1.49034118652344" tx="-166.2" ty="-102.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.35" y="17.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CGate Assets/CGateSolid" selected="true" centerPoint3DX="-119.1" centerPoint3DY="-42.1">
+                  <matrix>
+                    <Matrix a="1.49034118652344" b="0.479843139648438" c="-0.479843139648438" d="1.49034118652344" tx="-135.35" ty="-18.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.15" y="-17.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Misc Assets/CHinge" selected="true" centerPoint3DX="236.8" centerPoint3DY="91.5">
+                  <matrix>
+                    <Matrix a="1.31539916992188" b="0.8492431640625" c="-0.8492431640625" d="1.31539916992188" tx="236.8" ty="91.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

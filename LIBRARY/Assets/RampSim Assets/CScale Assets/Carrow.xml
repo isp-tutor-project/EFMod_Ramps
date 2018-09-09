@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/CScale Assets/Carrow" itemID="48badfe4-00000257" symbolType="graphic" lastModified="1220206564">
+  <timeline>
+    <DOMTimeline name="Carrow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#9933CC" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Arrow Auto Shape" color="#FFFF4F" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFF00"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!470 520|470 1360!470 1360|170 1360!170 1360|170 520!170 520|20 520!20 520|320 20!320 20|620 520!620 520|470 520"/>
+                    <Edge cubics="!170 1360(;170,1360 170,520 170,520q170 1360 170 520);"/>
+                    <Edge cubics="!170 520(;170,520 20,520 20,520q170 520 20 520);"/>
+                    <Edge cubics="!20 520(;20,520 320,20 320,20q20 520 320 20);"/>
+                    <Edge cubics="!320 20(;320,20 620,520 620,520q320 20 620 520);"/>
+                    <Edge cubics="!620 520(;620,520 470,520 470,520q620 520 470 520);"/>
+                    <Edge cubics="!470 1360(;470,1360 170,1360 170,1360q470 1360 170 1360);"/>
+                    <Edge cubics="!470 520(;470,520 470,1360 470,1360q470 520 470 1360);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

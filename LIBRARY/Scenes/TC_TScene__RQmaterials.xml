@@ -1,0 +1,124 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b956fcb-00000b2e" lastModified="1536520139">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQmaterials">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="-611.6" width="1405.8" height="58.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-72" ty="-414.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Here are all of the materials that may be necessary for this experiment.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Speedgauge" selected="true">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-497.8" ty="276.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/CballRed">
+                  <matrix>
+                    <Matrix a="2.199951171875" d="2.199951171875" tx="520.55" ty="251.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.25" y="17.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramp_noball">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="38.3" ty="-95.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-53.3" y="58.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Redbutton">
+                  <matrix>
+                    <Matrix tx="-503.2" ty="213.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Bluearrow" name="material_ramp">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.97430419921875" c="0.97430419921875" d="-0.22491455078125" tx="-302.4" ty="-62.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.65" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Bluearrow" name="material_speedometer">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.97430419921875" c="0.97430419921875" d="-0.22491455078125" tx="-705.8" ty="275.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.65" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Bluearrow" name="material_ball">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="-0.97430419921875" c="0.97430419921875" d="-0.22491455078125" tx="443.25" ty="287.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.65" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText fontRenderingMode="standard" left="3.3" width="137.4" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-47.4" ty="75.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A ramp</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" left="-55.75" width="255.5" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-569.15" ty="362.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Speedometer</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" left="34.2" width="75.6" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="432.1" ty="357.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ball</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

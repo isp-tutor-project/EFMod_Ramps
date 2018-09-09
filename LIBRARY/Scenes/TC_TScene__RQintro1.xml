@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro1" itemID="5b956fbd-00000b2a" lastModified="1536520125">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQintro1">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TObject_bluebackground">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramps1" selected="true">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-6.5" ty="20.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-37.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText fontRenderingMode="standard" left="-426.1" width="1041.15" height="71.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-92.9" ty="-474.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Let's see how this experiment works. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,17 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/EIIntro" itemID="48a9c877-000017c4" lastModified="1217970306" lastUniqueIdentifier="28">
+  <timeline>
+    <DOMTimeline name="EIIntro">
+      <layers>
+        <DOMLayer name="3DGridWall.png" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Assets/RampComponents/3DGridWall.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b956fdd-00000b31" lastModified="1536520157">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Topic">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramp_steep_middle_yellowball" name="Svar3b" selected="true">
+                  <matrix>
+                    <Matrix a="2.15623474121094" d="2.15623474121094"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-53.25" y="58.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

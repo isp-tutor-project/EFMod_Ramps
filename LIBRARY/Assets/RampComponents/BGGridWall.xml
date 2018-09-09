@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/BGGridWall" itemID="48c16bca-00000db4" lastModified="1220635594" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="BGGridWall">
+      <layers>
+        <DOMLayer name="Border" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Border">
+                  <matrix>
+                    <Matrix a="0.99993896484375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="396.45" y="295.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mask" color="#FFFF4F" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Mask">
+                  <matrix>
+                    <Matrix a="0.99993896484375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="396.45" y="295.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="EIIntro" color="#FF4FFF" parentLayerIndex="1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/EIIntro">
+                  <matrix>
+                    <Matrix a="0.771835327148438" d="0.771896362304688" tx="0.85" ty="0.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="512.05" y="383.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

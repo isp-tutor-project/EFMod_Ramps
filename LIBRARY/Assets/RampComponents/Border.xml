@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/Border" itemID="48a9c877-000017cc" lastModified="1219097247">
+  <timeline>
+    <DOMTimeline name="Border">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="792.95" objectHeight="591.95" x="115.95" y="87" selected="true" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix tx="-115.95" ty="-87"/>
+                  </matrix>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="3.25">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,65 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/Speedgauge" itemID="5a9422a3-0000039b" lastModified="1528807374">
+  <timeline>
+    <DOMTimeline name="Speedgauge">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="6.75">
+                        <fill>
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0.0767059326171875" d="0.04376220703125"/>
+                            </matrix>
+                            <GradientEntry color="#4F4F4F" ratio="0.0235294117647059"/>
+                            <GradientEntry color="#777777" ratio="0.141176470588235"/>
+                            <GradientEntry color="#CDCDCD" ratio="0.172549019607843"/>
+                            <GradientEntry color="#777777" ratio="0.419607843137255"/>
+                            <GradientEntry ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-1033 -650|1033 -650!1033 -650[1201 -650 1201 -450!1201 -450|1201 450!1201 450[1201 650 1033 650!1033 650|-1033 650!-1033 650[-1201 650 -1201 450!-1201 450|-1201 -450!-1201 -450[-1201 -650 -1033 -650"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="!-990 210|930 210"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" fontRenderingMode="standard" left="60.55" width="22.9" height="18.1" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-35.4" ty="-7.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MPH</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.1" size="14" bitmapSize="280" face="PTSans-Narrow" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

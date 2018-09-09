@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/Ramps_steep_roughbar" itemID="5afb025a-00000be5" lastModified="1526399578" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="Ramps_steep_roughbar">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCue" selected="true" centerPoint3DX="29.8" centerPoint3DY="-0.2">
+                  <matrix>
+                    <Matrix a="1.03305053710938" d="1.03305053710938" tx="-144.55" ty="-65.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="119.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/graybar" selected="true" centerPoint3DX="34.65" centerPoint3DY="75.9">
+                  <matrix>
+                    <Matrix a="0.870330810546875" d="0.89654541015625" tx="-1.35" ty="75.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="0.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineRoughNew" selected="true" centerPoint3DX="106" centerPoint3DY="76.65">
+                  <matrix>
+                    <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="9.5" ty="9.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="149.5" y="5.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CGrab Assets/CGrabSolid" selected="true" centerPoint3DX="-96.1" centerPoint3DY="-57.9">
+                  <matrix>
+                    <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="-96.05" ty="-57.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/CballYellow" name="ball1" selected="true" centerPoint3DX="-58.5" centerPoint3DY="-54.4">
+                  <matrix>
+                    <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="-62.5" ty="-73.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.25" y="17.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CGate Assets/CGateSolid" selected="true" centerPoint3DX="-47.55" centerPoint3DY="-37.9">
+                  <matrix>
+                    <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="-58.45" ty="-28.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="-17.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Misc Assets/CHinge" selected="true" centerPoint3DX="108.7" centerPoint3DY="74.35">
+                  <matrix>
+                    <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="108.7" ty="74.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

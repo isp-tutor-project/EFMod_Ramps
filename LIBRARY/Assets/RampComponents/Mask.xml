@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/Mask" itemID="48a9c877-000017c9" lastModified="1216823983">
+  <timeline>
+    <DOMTimeline name="Mask">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="792.95" objectHeight="591.95" x="115.95" y="87" selected="true" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix tx="-115.95" ty="-87"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF" alpha="0.705882352941177"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
