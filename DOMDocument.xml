@@ -20,7 +20,7 @@
           <DOMFolderItem name="Assets/RampSim Assets/CScale Assets" itemID="4d6aa060-00000547"/>
           <DOMFolderItem name="Assets/RampSim Assets/Misc Assets" itemID="4d6aa060-0000051c"/>
           <DOMFolderItem name="Components" itemID="5b92ec91-000017b9" isExpanded="true"/>
-          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
+          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
@@ -78,7 +78,7 @@
           <Include href="Assets/RampSim Assets/CScale Assets/Carrow.xml" itemIcon="1" loadImmediate="false" itemID="48badfe4-00000257" lastModified="1220206564"/>
           <Include href="Assets/RampSim Assets/Misc Assets/CHinge.xml" itemID="48bd96e5-000001f0" lastModified="1220195687"/>
           <Include href="Components/TC_TObject__Movie.xml" loadImmediate="false" itemID="5b956fd9-00000b30" lastModified="1536520153"/>
-          <Include href="Components/TC_TObject__Topic.xml" loadImmediate="false" itemID="5b956fdd-00000b31" lastModified="1536520157"/>
+          <Include href="Components/TC_TObject__Topic.xml" loadImmediate="false" itemID="5b956fdd-00000b31" lastModified="1536597673"/>
           <Include href="Components/TC_TObject__Vars.xml" loadImmediate="false" itemID="5b956fe1-00000b32" lastModified="1536520161"/>
           <Include href="Exports/TL_Ramps__Movie.xml" loadImmediate="false" itemID="5b956fe5-00000b33" lastModified="1536520165"/>
           <Include href="Exports/TL_Ramps__RQintro1.xml" loadImmediate="false" itemID="5b9587e5-00000f82" lastModified="1536526309"/>
@@ -100,7 +100,7 @@
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1">
+          <DOMTimeline name="Scene 1" currentFrame="8">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -152,10 +152,28 @@
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="8" keyMode="9728">
-                                   <elements/>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Topic" selected="true" cacheAsBitmap="true">
+                                             <matrix>
+                                                  <Matrix tx="275" ty="579.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-114.9" y="126.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
                               </DOMFrame>
                               <DOMFrame index="9" keyMode="9728">
-                                   <elements/>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars">
+                                             <matrix>
+                                                  <Matrix tx="20.4" ty="418"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="134.3" y="298.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
@@ -175,7 +193,8 @@
    </property>
    <property id="__ComponentType__">
       <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
-   </property>]]></parametersAsXML>
+   </property>
+]]></parametersAsXML>
                                         </DOMComponentInstance>
                                    </elements>
                               </DOMFrame>
@@ -188,10 +207,7 @@
           <GlobalScripts language="Javascript"/>
      </scripts>
      <persistentData>
-          <PD n="CreateJSToolkit_timelinedata" v="version
-0.1
-loop
-true"/>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory/>

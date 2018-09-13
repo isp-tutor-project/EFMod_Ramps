@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b956fdd-00000b31" lastModified="1536520157">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b956fdd-00000b31" lastModified="1536597673">
   <timeline>
     <DOMTimeline name="TC_TObject__Topic">
       <layers>
@@ -6,9 +6,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramp_steep_middle_yellowball" name="Svar3b" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramp_steep_middle_yellowball" name="Svar3b">
                   <matrix>
-                    <Matrix a="2.15623474121094" d="2.15623474121094"/>
+                    <Matrix a="2.15623474121094" d="2.15623474121094" tx="246.05" ty="171.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-53.25" y="58.7"/>
