@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Movie" itemID="5b956fd9-00000b30" lastModified="1536520153">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Movie" itemID="5b956fd9-00000b30" linkageExportForAS="true" linkageClassName="TC_TObject__Movie" lastModified="1537036701">
   <timeline>
     <DOMTimeline name="TC_TObject__Movie" currentFrame="118">
       <layers>

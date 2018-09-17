@@ -71,7 +71,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Bluearrow" name="var_slopeoframp">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__arrow" name="var_slopeoframp">
                   <matrix>
                     <Matrix a="-0.22491455078125" b="-0.97430419921875" c="0.97430419921875" d="-0.22491455078125" tx="-321.7" ty="-21.1"/>
                   </matrix>
@@ -79,7 +79,7 @@
                     <Point x="-3.65" y="1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Bluearrow" name="var_colorofball">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__arrow" name="var_colorofball">
                   <matrix>
                     <Matrix a="-0.22491455078125" b="-0.97430419921875" c="0.97430419921875" d="-0.22491455078125" tx="-322.95" ty="84.65"/>
                   </matrix>
@@ -87,7 +87,7 @@
                     <Point x="-3.65" y="1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Bluearrow" name="var_startingpositionofball">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__arrow" name="var_startingpositionofball">
                   <matrix>
                     <Matrix a="-0.22491455078125" b="-0.97430419921875" c="0.97430419921875" d="-0.22491455078125" tx="-314.95" ty="189.15"/>
                   </matrix>
@@ -95,7 +95,7 @@
                     <Point x="-3.65" y="1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Bluearrow" name="var_surfacetexture">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__arrow" name="var_surfacetexture">
                   <matrix>
                     <Matrix a="-0.22491455078125" b="-0.97430419921875" c="0.97430419921875" d="-0.22491455078125" tx="-319.8" ty="303.1"/>
                   </matrix>

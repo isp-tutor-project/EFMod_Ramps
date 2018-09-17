@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/Bluearrow" itemID="5af59db1-000003d2" lastModified="1526046287">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/TC_TObject__arrow" itemID="5b9d7dc3-000027ac" lastModified="1537048003">
   <timeline>
-    <DOMTimeline name="Bluearrow">
+    <DOMTimeline name="TC_TObject__arrow">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

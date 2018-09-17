@@ -6,8 +6,9 @@
           <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
-          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
-          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48" isExpanded="true"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9" isExpanded="true"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
           <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
           <DOMFolderItem name="Assets/RampComponents" itemID="5b92ebf1-000017b2"/>
           <DOMFolderItem name="Assets/RampSim Assets" itemID="4d6aa060-000004f5" isExpanded="true"/>
@@ -39,11 +40,13 @@
           <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
           <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/contentFrame.xml" loadImmediate="false" itemID="5b8db279-000005f6" lastModified="1536012921"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets/playButtonTop.xml" loadImmediate="false" itemID="5b9e99fb-00000b68" lastModified="1537120902"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets/playup.xml" loadImmediate="false" itemID="5b9e98ab-00000b30" lastModified="1537120908"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__PlayButton.xml" itemIcon="0" loadImmediate="false" itemID="5b9e9aaa-00000b83" lastModified="1537121919"/>
           <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1536514559"/>
           <Include href="_Tutor Global Assets_/TC_TVirtual__SceneRgn.xml" loadImmediate="false" itemID="5b7745af-0000037b" lastModified="1536518598"/>
           <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
           <Include href="Assets/RampComponents/BGGridWall.xml" loadImmediate="false" itemID="48c16bca-00000db4" lastModified="1220635594"/>
-          <Include href="Assets/RampComponents/Bluearrow.xml" loadImmediate="false" itemID="5af59db1-000003d2" lastModified="1526046287"/>
           <Include href="Assets/RampComponents/Border.xml" loadImmediate="false" itemID="48a9c877-000017cc" lastModified="1219097247"/>
           <Include href="Assets/RampComponents/EIIntro.xml" loadImmediate="false" itemID="48a9c877-000017c4" lastModified="1217970306"/>
           <Include href="Assets/RampComponents/graybar.xml" loadImmediate="false" itemID="5afb010b-00000463" lastModified="1526399243"/>
@@ -59,6 +62,7 @@
           <Include href="Assets/RampComponents/Ramps1.xml" loadImmediate="false" itemID="5afb2ada-000004a4" lastModified="1526409946"/>
           <Include href="Assets/RampComponents/Redbutton.xml" loadImmediate="false" itemID="5afafe94-0000053f" lastModified="1526398613"/>
           <Include href="Assets/RampComponents/Speedgauge.xml" loadImmediate="false" itemID="5a9422a3-0000039b" lastModified="1528807374"/>
+          <Include href="Assets/RampComponents/TC_TObject__arrow.xml" loadImmediate="false" itemID="5b9d7dc3-000027ac" lastModified="1537048003"/>
           <Include href="Assets/RampComponents/TObject_bluebackground.xml" loadImmediate="false" itemID="5b181f53-0000025b" lastModified="1528307539"/>
           <Include href="Assets/RampSim Assets/CAngleCue.xml" itemID="48bab70d-000001ba" lastModified="1220206735"/>
           <Include href="Assets/RampSim Assets/CBall Assets/CballPink.xml" itemID="5b24068f-000002e7" lastModified="1529087631"/>
@@ -77,9 +81,9 @@
           <Include href="Assets/RampSim Assets/CRamp Assets/CangleMask.xml" itemID="48bab785-000001c4" lastModified="1220205247"/>
           <Include href="Assets/RampSim Assets/CScale Assets/Carrow.xml" itemIcon="1" loadImmediate="false" itemID="48badfe4-00000257" lastModified="1220206564"/>
           <Include href="Assets/RampSim Assets/Misc Assets/CHinge.xml" itemID="48bd96e5-000001f0" lastModified="1220195687"/>
-          <Include href="Components/TC_TObject__Movie.xml" loadImmediate="false" itemID="5b956fd9-00000b30" lastModified="1536520153"/>
-          <Include href="Components/TC_TObject__Topic.xml" loadImmediate="false" itemID="5b956fdd-00000b31" lastModified="1536597673"/>
-          <Include href="Components/TC_TObject__Vars.xml" loadImmediate="false" itemID="5b956fe1-00000b32" lastModified="1536520161"/>
+          <Include href="Components/TC_TObject__Movie.xml" itemID="5b956fd9-00000b30" lastModified="1537036701"/>
+          <Include href="Components/TC_TObject__Topic.xml" itemID="5b956fdd-00000b31" lastModified="1537036703"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956fe1-00000b32" lastModified="1537036706"/>
           <Include href="Exports/TL_Ramps__Movie.xml" loadImmediate="false" itemID="5b956fe5-00000b33" lastModified="1536520165"/>
           <Include href="Exports/TL_Ramps__RQintro1.xml" loadImmediate="false" itemID="5b9587e5-00000f82" lastModified="1536526309"/>
           <Include href="Exports/TL_Ramps__RQintro2.xml" loadImmediate="false" itemID="5b9587f6-00000f8b" lastModified="1536526326"/>
@@ -90,12 +94,13 @@
           <Include href="Exports/TL_Ramps__RQvariables.xml" loadImmediate="false" itemID="5b9587f0-00000f85" lastModified="1536526320"/>
           <Include href="Exports/TL_Ramps__Topic.xml" loadImmediate="false" itemID="5b956fe9-00000b34" lastModified="1536520169"/>
           <Include href="Exports/TL_Ramps__Vars.xml" loadImmediate="false" itemID="5b956fed-00000b35" lastModified="1536520173"/>
-          <Include href="Scenes/TC_TScene__RQintro1.xml" loadImmediate="false" itemID="5b956fbd-00000b2a" lastModified="1536520125"/>
-          <Include href="Scenes/TC_TScene__RQintro2.xml" loadImmediate="false" itemID="5b956fc0-00000b2b" lastModified="1536520128"/>
-          <Include href="Scenes/TC_TScene__RQintro3.xml" loadImmediate="false" itemID="5b956fc3-00000b2c" lastModified="1536520131"/>
-          <Include href="Scenes/TC_TScene__RQintro4.xml" loadImmediate="false" itemID="5b956fc6-00000b2d" lastModified="1536520134"/>
-          <Include href="Scenes/TC_TScene__RQmaterials.xml" loadImmediate="false" itemID="5b956fcb-00000b2e" lastModified="1536520139"/>
-          <Include href="Scenes/TC_TScene__RQmovie.xml" loadImmediate="false" itemID="5b95859e-00000e91" lastModified="1536525751"/>
+          <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e966e-000008c2" lastModified="1537121694"/>
+          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5b956fbd-00000b2a" lastModified="1537036708"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5b956fc0-00000b2b" lastModified="1537036710"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5b956fc3-00000b2c" lastModified="1537036713"/>
+          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5b956fc6-00000b2d" lastModified="1537036715"/>
+          <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b956fcb-00000b2e" lastModified="1537048457"/>
+          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b95859e-00000e91" lastModified="1537124897"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956fd1-00000b2f" lastModified="1536520145"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
@@ -152,28 +157,10 @@
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="8" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Topic" selected="true" cacheAsBitmap="true">
-                                             <matrix>
-                                                  <Matrix tx="275" ty="579.85"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="-114.9" y="126.45"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                               <DOMFrame index="9" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars">
-                                             <matrix>
-                                                  <Matrix tx="20.4" ty="418"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="134.3" y="298.3"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
