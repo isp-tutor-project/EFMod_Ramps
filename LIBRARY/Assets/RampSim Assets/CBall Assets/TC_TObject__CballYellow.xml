@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/CBall Assets/CballPink" itemID="5b24068f-000002e7" linkageExportForAS="true" linkageClassName="CballYellow" lastModified="1529087631" lastUniqueIdentifier="40">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/CBall Assets/TC_TObject__CballYellow" itemID="5ba16940-00001f4c" lastModified="1537304896">
   <timeline>
-    <DOMTimeline name="CballPink">
+    <DOMTimeline name="TC_TObject__CballYellow">
       <layers>
         <DOMLayer name="Layer 1" color="#4FFF4F">
           <frames>
@@ -38,52 +38,39 @@
                     <StrokeStyle index="2">
                       <SolidStroke scaleMode="normal" weight="0.25">
                         <fill>
-                          <SolidColor color="#FF33CC"/>
+                          <SolidColor color="#999999"/>
                         </fill>
                       </SolidStroke>
                     </StrokeStyle>
                     <StrokeStyle index="3">
-                      <SolidStroke scaleMode="normal" weight="0.25">
-                        <fill>
-                          <SolidColor color="#FFFFFF"/>
-                        </fill>
-                      </SolidStroke>
-                    </StrokeStyle>
-                    <StrokeStyle index="4">
                       <SolidStroke scaleMode="normal">
                         <fill>
-                          <SolidColor color="#990066"/>
+                          <SolidColor color="#999999"/>
                         </fill>
                       </SolidStroke>
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="4" edges="!690 345[690 486 593 586!593 586[591 587 590 589!590 589|589 589!589 589[580 598 571 606!571 606[475 690 345 690!345 690[202 690 101 589!101 589[0 488 0 345!0 345[0 311 6 280!6 280[22 190 84 119!84 119[92 110 101 101!101 101|102 101!102
+                    <Edge strokeStyle="3" edges="!690 345[690 486 593 586!593 586[591 587 590 589!590 589|589 589!589 589[580 598 571 606!571 606[475 690 345 690!345 690[202 690 101 589!101 589[0 488 0 345!0 345[0 311 6 280!6 280[22 190 84 119!84 119[92 110 101 101!101 101|102 101!102
  101[202 0 345 0!345 0[488 0 589 101!589 101[690 202 690 345"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="
+!345.5 345|345 345"/>
                     <Edge strokeStyle="2" edges="
-!101 101|112.5 112.5"/>
-                    <Edge fillStyle0="1" strokeStyle="1" edges="
-!334 334|345 345"/>
-                    <Edge fillStyle0="2" strokeStyle="1" edges="
-!345 345|356.5 356.5"/>
-                    <Edge strokeStyle="3" edges="
-!581 581[#1D6.8D #1D6.6F 360 360!360 360[#166.2C #166.24 356.5 356.5"/>
-                    <Edge fillStyle0="2" strokeStyle="3" edges="
+!345 345|101 589"/>
+                    <Edge fillStyle0="1" strokeStyle="2" edges="
+!345.5 345|334 334"/>
+                    <Edge strokeStyle="2" edges="
+!334 334|101 101!581 581[#1D6.8D #1D6.6F 360 360!360 360[#166.2C #166.24 356.5 356.5"/>
+                    <Edge fillStyle0="2" strokeStyle="2" edges="
 !356.5 356.5|345.5 345"/>
-                    <Edge strokeStyle="3" edges="
-!114 576|345 345"/>
-                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="3" edges="
-!345 345|345.5 345"/>
-                    <Edge strokeStyle="3" edges="
-!112.5 112.5|334 334"/>
-                    <Edge fillStyle1="1" strokeStyle="3" edges="
-!334 334|345.5 345"/>
-                    <Edge strokeStyle="2" edges="
-!114 576|101 589"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="
+!356.5 356.5|345 345"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!345 345|334 334"/>
                     <Edge strokeStyle="1" edges="
 !589 589|581 581"/>
-                    <Edge strokeStyle="3" edges="
-!345.5 345|589 101"/>
+                    <Edge strokeStyle="2" edges="
+!589 101|345.5 345"/>
                     <Edge cubics="!345 0(;440,0 522,34 589,101q345 0Q488 0q589 101)589,101;"/>
                     <Edge cubics="!571 606(571,606;507,662 432,690 345,690q571 606Q475 690q345 690);"/>
                     <Edge cubics="!589 589(;583,595 577,601 571,606q589 589Q580 598q571 606)571,606;"/>
@@ -129,8 +116,8 @@
                         <matrix>
                           <Matrix a="0.021728515625" d="0.021728515625" tx="17.2" ty="17.2"/>
                         </matrix>
-                        <GradientEntry color="#FE78D7" ratio="0.364705882352941"/>
-                        <GradientEntry color="#CF0593" ratio="1"/>
+                        <GradientEntry color="#FFFF00" ratio="0.329411764705882"/>
+                        <GradientEntry color="#C1C002" ratio="1"/>
                       </RadialGradient>
                     </FillStyle>
                   </fills>
@@ -138,7 +125,7 @@
                     <StrokeStyle index="1">
                       <SolidStroke scaleMode="normal">
                         <fill>
-                          <SolidColor color="#FF33CC"/>
+                          <SolidColor color="#999999"/>
                         </fill>
                       </SolidStroke>
                     </StrokeStyle>

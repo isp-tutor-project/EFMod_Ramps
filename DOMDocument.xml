@@ -52,23 +52,23 @@
           <Include href="Assets/RampComponents/graybar.xml" loadImmediate="false" itemID="5afb010b-00000463" lastModified="1526399243"/>
           <Include href="Assets/RampComponents/Mask.xml" loadImmediate="false" itemID="48a9c877-000017c9" lastModified="1216823983"/>
           <Include href="Assets/RampComponents/Ramp_noball.xml" loadImmediate="false" itemID="5afb2dac-00000745" lastModified="1526410668"/>
-          <Include href="Assets/RampComponents/Ramp_startingtop_notsteep_yellowball.xml" loadImmediate="false" itemID="5afb2405-00000535" lastModified="1526408198"/>
-          <Include href="Assets/RampComponents/Ramp_steep_middle_yellowball.xml" loadImmediate="false" itemID="5afb01a6-0000075b" lastModified="1529088496"/>
           <Include href="Assets/RampComponents/ramps_scene2.xml" loadImmediate="false" itemID="5afafdea-00000488" lastModified="1526398442"/>
           <Include href="Assets/RampComponents/ramps_scene3.xml" loadImmediate="false" itemID="5afafe27-000004d1" lastModified="1526398503"/>
           <Include href="Assets/RampComponents/ramps_scene5.xml" loadImmediate="false" itemID="5afafeb7-00000571" lastModified="1526398647"/>
-          <Include href="Assets/RampComponents/Ramps_startingtop_yellow_steep.xml" loadImmediate="false" itemID="5afb020b-00000a61" lastModified="1526399844"/>
-          <Include href="Assets/RampComponents/Ramps_steep_roughbar.xml" loadImmediate="false" itemID="5afb025a-00000be5" lastModified="1526399578"/>
           <Include href="Assets/RampComponents/Ramps1.xml" loadImmediate="false" itemID="5afb2ada-000004a4" lastModified="1526409946"/>
           <Include href="Assets/RampComponents/Redbutton.xml" loadImmediate="false" itemID="5afafe94-0000053f" lastModified="1526398613"/>
           <Include href="Assets/RampComponents/Speedgauge.xml" loadImmediate="false" itemID="5a9422a3-0000039b" lastModified="1528807374"/>
           <Include href="Assets/RampComponents/TC_TObject__arrow.xml" loadImmediate="false" itemID="5b9d7dc3-000027ac" lastModified="1537048003"/>
+          <Include href="Assets/RampComponents/TC_TObject__Ramp_startingtop_notsteep_yellowball.xml" loadImmediate="false" itemID="5ba16933-00001f4a" lastModified="1537304883"/>
+          <Include href="Assets/RampComponents/TC_TObject__Ramp_steep_middle_yellowball.xml" loadImmediate="false" itemID="5ba16951-00001f4d" lastModified="1537304913"/>
+          <Include href="Assets/RampComponents/TC_TObject__Ramps_startingtop_yellow_steep.xml" loadImmediate="false" itemID="5ba1692c-00001f49" lastModified="1537304876"/>
+          <Include href="Assets/RampComponents/TC_TObject__Ramps_steep_roughbar.xml" loadImmediate="false" itemID="5ba16958-00001f4e" lastModified="1537304920"/>
           <Include href="Assets/RampComponents/TObject_bluebackground.xml" loadImmediate="false" itemID="5b181f53-0000025b" lastModified="1528307539"/>
           <Include href="Assets/RampSim Assets/CAngleCue.xml" itemID="48bab70d-000001ba" lastModified="1220206735"/>
-          <Include href="Assets/RampSim Assets/CBall Assets/CballPink.xml" itemID="5b24068f-000002e7" lastModified="1529087631"/>
           <Include href="Assets/RampSim Assets/CBall Assets/CballRed.xml" loadImmediate="false" itemID="48bd96e5-000001f9" lastModified="1226441870"/>
-          <Include href="Assets/RampSim Assets/CBall Assets/CballYellow.xml" loadImmediate="false" itemID="5b24069a-000002e9" lastModified="1529087642"/>
           <Include href="Assets/RampSim Assets/CBall Assets/CballYellow copy.xml" loadImmediate="false" itemID="5b92ecd1-0000183a" lastModified="1529087642"/>
+          <Include href="Assets/RampSim Assets/CBall Assets/TC_TObject__CballPink.xml" loadImmediate="false" itemID="5ba16939-00001f4b" lastModified="1537305779"/>
+          <Include href="Assets/RampSim Assets/CBall Assets/TC_TObject__CballYellow.xml" loadImmediate="false" itemID="5ba16940-00001f4c" lastModified="1537304896"/>
           <Include href="Assets/RampSim Assets/CBase Assets/CbaseNull.xml" itemID="48bac724-000001e9" lastModified="1220200264"/>
           <Include href="Assets/RampSim Assets/CGate Assets/CdoorSolid.xml" itemID="48bd96e5-0000020e" lastModified="1220198492"/>
           <Include href="Assets/RampSim Assets/CGate Assets/CGateSolid.xml" itemID="48bd96e5-0000020b" lastModified="1273678482"/>
@@ -83,7 +83,7 @@
           <Include href="Assets/RampSim Assets/Misc Assets/CHinge.xml" itemID="48bd96e5-000001f0" lastModified="1220195687"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956fd9-00000b30" lastModified="1537036701"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956fdd-00000b31" lastModified="1537036703"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956fe1-00000b32" lastModified="1537036706"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956fe1-00000b32" lastModified="1537305728"/>
           <Include href="Exports/TL_Ramps__Movie.xml" loadImmediate="false" itemID="5b956fe5-00000b33" lastModified="1536520165"/>
           <Include href="Exports/TL_Ramps__RQintro1.xml" loadImmediate="false" itemID="5b9587e5-00000f82" lastModified="1536526309"/>
           <Include href="Exports/TL_Ramps__RQintro2.xml" loadImmediate="false" itemID="5b9587f6-00000f8b" lastModified="1536526326"/>
@@ -100,7 +100,7 @@
           <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5b956fc3-00000b2c" lastModified="1537036713"/>
           <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5b956fc6-00000b2d" lastModified="1537036715"/>
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b956fcb-00000b2e" lastModified="1537048457"/>
-          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b95859e-00000e91" lastModified="1537124897"/>
+          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b95859e-00000e91" lastModified="1537304863"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956fd1-00000b2f" lastModified="1536520145"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>

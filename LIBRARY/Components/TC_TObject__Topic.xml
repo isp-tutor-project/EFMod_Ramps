@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramp_steep_middle_yellowball" name="Svar3b">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramp_steep_middle_yellowball" name="Svar3b">
                   <matrix>
                     <Matrix a="2.15623474121094" d="2.15623474121094" tx="246.05" ty="171.85"/>
                   </matrix>

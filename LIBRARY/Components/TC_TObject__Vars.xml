@@ -1,4 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956fe1-00000b32" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537036706">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956fe1-00000b32" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537305728">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TObject__Vars">
       <layers>
@@ -6,7 +9,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramps_startingtop_yellow_steep" name="Svar1a">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramps_startingtop_yellow_steep" name="Svar1a" selected="true">
                   <matrix>
                     <Matrix a="2" d="2" tx="267.05" ty="184.3"/>
                   </matrix>
@@ -22,7 +25,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramp_startingtop_notsteep_yellowball" name="Svar1b">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramp_startingtop_notsteep_yellowball" name="Svar1b" selected="true">
                   <matrix>
                     <Matrix tx="247.6" ty="241.45"/>
                   </matrix>
@@ -38,7 +41,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/CballPink" name="Svar2b">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/TC_TObject__CballPink" name="Svar2b">
                   <matrix>
                     <Matrix a="3.75" d="3.75" tx="182.9" ty="107.2"/>
                   </matrix>
@@ -50,11 +53,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2a" color="#00FFFF" autoNamed="false" visible="false">
+        <DOMLayer name="Svar2a" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/CballYellow" name="Svar2a">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/TC_TObject__CballYellow" name="Svar2a" selected="true">
                   <matrix>
                     <Matrix a="3.75" d="3.75" tx="182.9" ty="107.2"/>
                   </matrix>
@@ -70,7 +73,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramps_startingtop_yellow_steep" name="Svar3a">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramps_startingtop_yellow_steep" name="Svar3a" selected="true">
                   <matrix>
                     <Matrix a="2.15623474121094" d="2.15623474121094" tx="249.2" ty="171.85"/>
                   </matrix>
@@ -82,11 +85,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3b" color="#009999" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#009999" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramp_steep_middle_yellowball" name="Svar3b">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramp_steep_middle_yellowball" name="Svar3b" selected="true">
                   <matrix>
                     <Matrix a="2.15623474121094" d="2.15623474121094" tx="249.2" ty="171.85"/>
                   </matrix>
@@ -102,7 +105,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramps_steep_roughbar" name="Svar4a">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramps_steep_roughbar" name="Svar4a" selected="true">
                   <matrix>
                     <Matrix a="2.137451171875" d="2.137451171875" tx="251.35" ty="173.35"/>
                   </matrix>
@@ -118,7 +121,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramps_startingtop_yellow_steep" name="Svar4b" centerPoint3DX="249.2" centerPoint3DY="171.9">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramps_startingtop_yellow_steep" name="Svar4b" selected="true" centerPoint3DX="249.2" centerPoint3DY="171.9">
                   <matrix>
                     <Matrix a="2.15623474121094" d="2.15623474121094" tx="249.2" ty="171.85"/>
                   </matrix>

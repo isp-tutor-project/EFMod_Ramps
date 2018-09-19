@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/Ramps_startingtop_yellow_steep" itemID="5afb020b-00000a61" lastModified="1526399844" lastUniqueIdentifier="21">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/TC_TObject__Ramps_startingtop_yellow_steep" itemID="5ba1692c-00001f49" lastModified="1537304876" lastUniqueIdentifier="21">
   <timeline>
-    <DOMTimeline name="Ramps_startingtop_yellow_steep">
+    <DOMTimeline name="TC_TObject__Ramps_startingtop_yellow_steep">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
@@ -38,7 +38,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/CballYellow" name="ball1" centerPoint3DX="-58.5" centerPoint3DY="-54.4">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/TC_TObject__CballYellow" name="ball1" centerPoint3DX="-58.5" centerPoint3DY="-54.4">
                   <matrix>
                     <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="-62.5" ty="-73.05"/>
                   </matrix>
