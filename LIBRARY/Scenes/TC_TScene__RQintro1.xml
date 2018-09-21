@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro1" itemID="5b956fbd-00000b2a" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro1" lastModified="1537036708">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro1" itemID="5ba50f64-000004d3" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro1" lastModified="1537544044">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro1">
       <layers>
@@ -6,28 +6,28 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TObject_bluebackground">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
                   <transformationPoint>
-                    <Point/>
+                    <Point x="960" y="600"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/RampComponents/Ramps1" selected="true">
                   <matrix>
-                    <Matrix a="2" d="2" tx="-6.5" ty="20.05"/>
+                    <Matrix a="2" d="2" tx="960.2" ty="600.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-37.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText fontRenderingMode="standard" left="-426.1" width="1041.15" height="71.2" isSelectable="false" lineType="multiline">
+                <DOMDynamicText selected="true" fontRenderingMode="standard" left="-763.75" width="1720.45" height="71.2" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-92.9" ty="-474.1"/>
+                    <Matrix tx="865.8" ty="84.45"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Let's see how this experiment works. </characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

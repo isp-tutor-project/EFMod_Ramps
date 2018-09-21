@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="EFF037AC4C96E3669290FFC080C190C0">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="EFF037AC4C96E3669290FFC080C190C0">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
@@ -6,8 +6,8 @@
           <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
-          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48" isExpanded="true"/>
-          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9" isExpanded="true"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
           <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
           <DOMFolderItem name="Assets/RampComponents" itemID="5b92ebf1-000017b2"/>
@@ -20,10 +20,10 @@
           <DOMFolderItem name="Assets/RampSim Assets/CRamp Assets" itemID="4d6aa060-0000054a"/>
           <DOMFolderItem name="Assets/RampSim Assets/CScale Assets" itemID="4d6aa060-00000547"/>
           <DOMFolderItem name="Assets/RampSim Assets/Misc Assets" itemID="4d6aa060-0000051c"/>
-          <DOMFolderItem name="Components" itemID="5b92ec91-000017b9" isExpanded="true"/>
+          <DOMFolderItem name="Components" itemID="5b92ec91-000017b9"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
      </folders>
      <media>
           <DOMBitmapItem name="Assets/RampComponents/3DGridWall.png" itemID="48a9c877-000017c7" sourceLastImported="1216650312" originalCompressionType="lossless" quality="50" href="Assets/RampComponents/3DGridWall.png" bitmapDataHRef="M 2 1536343148.dat" frameRight="20480" frameBottom="15360"/>
@@ -95,17 +95,17 @@
           <Include href="Exports/TL_Ramps__Topic.xml" loadImmediate="false" itemID="5b956fe9-00000b34" lastModified="1536520169"/>
           <Include href="Exports/TL_Ramps__Vars.xml" loadImmediate="false" itemID="5b956fed-00000b35" lastModified="1536520173"/>
           <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e966e-000008c2" lastModified="1537121694"/>
-          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5b956fbd-00000b2a" lastModified="1537036708"/>
-          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5b956fc0-00000b2b" lastModified="1537036710"/>
-          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5b956fc3-00000b2c" lastModified="1537036713"/>
-          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5b956fc6-00000b2d" lastModified="1537036715"/>
+          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5ba50f64-000004d3" lastModified="1537544044"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5ba50f65-000004d4" lastModified="1537544046"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5ba50f67-000004d5" lastModified="1537544048"/>
+          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5ba50f69-000004d6" lastModified="1537544051"/>
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b956fcb-00000b2e" lastModified="1537048457"/>
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b95859e-00000e91" lastModified="1537304863"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956fd1-00000b2f" lastModified="1536520145"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1" currentFrame="8">
+          <DOMTimeline name="Scene 1" currentFrame="3">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -130,19 +130,43 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="Module Content" color="#9933CC" locked="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
-                                   <elements/>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro1">
+                                             <transformationPoint>
+                                                  <Point x="960" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
-                                   <elements/>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro2">
+                                             <transformationPoint>
+                                                  <Point x="960" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
-                                   <elements/>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro3">
+                                             <transformationPoint>
+                                                  <Point x="960" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
                               </DOMFrame>
                               <DOMFrame index="3" keyMode="9728">
-                                   <elements/>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro4">
+                                             <transformationPoint>
+                                                  <Point x="960" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
                               </DOMFrame>
                               <DOMFrame index="4" keyMode="9728">
                                    <elements/>
@@ -150,21 +174,9 @@
                               <DOMFrame index="5" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="6" keyMode="9728">
-                                   <elements/>
-                              </DOMFrame>
-                              <DOMFrame index="7" keyMode="9728">
-                                   <elements/>
-                              </DOMFrame>
-                              <DOMFrame index="8" keyMode="9728">
-                                   <elements/>
-                              </DOMFrame>
-                              <DOMFrame index="9" keyMode="9728">
-                                   <elements/>
-                              </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Module Component" color="#00FFFF" autoNamed="false" visible="false">
+                    <DOMLayer name="Module Component" color="#00FFFF" locked="true" current="true" isSelected="true" autoNamed="false" visible="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
