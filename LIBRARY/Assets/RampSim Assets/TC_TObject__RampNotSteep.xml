@@ -1,0 +1,143 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/TC_TObject__RampNotSteep" itemID="5bba35d4-00002046" lastModified="1538931301">
+  <timeline>
+    <DOMTimeline name="TC_TObject__RampNotSteep">
+      <layers>
+        <DOMLayer name="Grab" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CGrab Assets/CGrabSolid" name="Grab" centerPoint3DX="-9.2" centerPoint3DY="79.35">
+                  <matrix>
+                    <Matrix a="0.74517822265625" b="0.23992919921875" c="-0.23992919921875" d="0.74517822265625" tx="-9.15" ty="79.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Hinge" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Misc Assets/CHinge" name="Hinge" centerPoint3DX="222.8" centerPoint3DY="154.05">
+                  <matrix>
+                    <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="222.8" ty="154.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar3a" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/TC_TObject__StartingGate" name="Svar3a">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="-0.258804321289063" c="0.258804321289063" d="0.965927124023438" tx="80.55" ty="83.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.9" y="31.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar3b" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/TC_TObject__StartingGate" name="Svar3b">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="-0.258804321289063" c="0.258804321289063" d="0.965927124023438" tx="5.55" ty="59.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.9" y="31.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4a" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineRoughNew" name="Svar4a" centerPoint3DX="110.05" centerPoint3DY="119.45">
+                  <matrix>
+                    <Matrix a="0.74517822265625" b="0.23992919921875" c="-0.23992919921875" d="0.74517822265625" tx="-0.45" ty="79.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="149.5" y="5.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4b" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineSmooth" name="Svar4b" centerPoint3DX="110.6" centerPoint3DY="118.3">
+                  <matrix>
+                    <Matrix a="0.74517822265625" b="0.23992919921875" c="-0.23992919921875" d="0.74517822265625" ty="78.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="149.55" y="5.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Base" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/graybar" name="Base" centerPoint3DX="148.75" centerPoint3DY="156.1">
+                  <matrix>
+                    <Matrix a="0.870330810546875" d="0.89654541015625" tx="112.75" ty="155.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="0.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AngleCue" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCueLow" name="AngleCue" centerPoint3DX="143.9" centerPoint3DY="79.5">
+                  <matrix>
+                    <Matrix a="1.03305053710938" d="1.03305053710938" tx="-30.45" ty="14.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="120"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

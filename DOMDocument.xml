@@ -9,19 +9,20 @@
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
-          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
-          <DOMFolderItem name="Assets/RampComponents" itemID="5b92ebf1-000017b2"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e" isExpanded="true"/>
+          <DOMFolderItem name="Assets/RampComponents" itemID="5b92ebf1-000017b2" isExpanded="true"/>
           <DOMFolderItem name="Assets/RampSim Assets" itemID="4d6aa060-000004f5" isExpanded="true"/>
           <DOMFolderItem name="Assets/RampSim Assets/CBall Assets" itemID="4d6aa060-00000520"/>
           <DOMFolderItem name="Assets/RampSim Assets/CBase Assets" itemID="4d6aa060-0000053c"/>
           <DOMFolderItem name="Assets/RampSim Assets/CGate Assets" itemID="4d6aa060-0000051e"/>
           <DOMFolderItem name="Assets/RampSim Assets/CGrab Assets" itemID="4d6aa060-00000522"/>
           <DOMFolderItem name="Assets/RampSim Assets/Cincline Assets" itemID="4d6aa060-0000051a"/>
-          <DOMFolderItem name="Assets/RampSim Assets/CRamp Assets" itemID="4d6aa060-0000054a"/>
-          <DOMFolderItem name="Assets/RampSim Assets/CScale Assets" itemID="4d6aa060-00000547"/>
-          <DOMFolderItem name="Assets/RampSim Assets/Misc Assets" itemID="4d6aa060-0000051c"/>
-          <DOMFolderItem name="Components" itemID="5b92ec91-000017b9"/>
-          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
+          <DOMFolderItem name="Assets/RampSim Assets/CRamp Assets" itemID="4d6aa060-0000054a" isExpanded="true"/>
+          <DOMFolderItem name="Assets/RampSim Assets/CScale Assets" itemID="4d6aa060-00000547" isExpanded="true"/>
+          <DOMFolderItem name="Assets/RampSim Assets/Misc Assets" itemID="4d6aa060-0000051c" isExpanded="true"/>
+          <DOMFolderItem name="Components" itemID="5b92ec91-000017b9" isExpanded="true"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5bba3bd4-00002286"/>
+          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
@@ -38,6 +39,7 @@
           <Include href="_HTMLControls/TC_THtmlTable__Assets/tablearea.xml" loadImmediate="false" itemID="5b5f40c1-000002dc" lastModified="1533050778"/>
           <Include href="_HTMLControls/TC_THtmlTable__Table1.xml" loadImmediate="false" itemID="5b5f91bf-00000347" lastModified="1534019420"/>
           <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
+          <Include href="_HTMLControls/TC_THtmlText__CallOutText.xml" loadImmediate="false" itemID="5bb8f667-00001782" lastModified="1538856249"/>
           <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/contentFrame.xml" loadImmediate="false" itemID="5b8db279-000005f6" lastModified="1536012921"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets/playButtonTop.xml" loadImmediate="false" itemID="5b9e99fb-00000b68" lastModified="1537120902"/>
@@ -61,10 +63,11 @@
           <Include href="Assets/RampComponents/TC_TObject__arrow.xml" loadImmediate="false" itemID="5b9d7dc3-000027ac" lastModified="1537048003"/>
           <Include href="Assets/RampComponents/TC_TObject__Ramp_startingtop_notsteep_yellowball.xml" loadImmediate="false" itemID="5ba16933-00001f4a" lastModified="1537304883"/>
           <Include href="Assets/RampComponents/TC_TObject__Ramp_steep_middle_yellowball.xml" loadImmediate="false" itemID="5ba16951-00001f4d" lastModified="1537304913"/>
-          <Include href="Assets/RampComponents/TC_TObject__Ramps_startingtop_yellow_steep.xml" loadImmediate="false" itemID="5ba1692c-00001f49" lastModified="1537304876"/>
+          <Include href="Assets/RampComponents/TC_TObject__Ramps_startingtop_yellow_steep.xml" loadImmediate="false" itemID="5ba1692c-00001f49" lastModified="1538930543"/>
           <Include href="Assets/RampComponents/TC_TObject__Ramps_steep_roughbar.xml" loadImmediate="false" itemID="5ba16958-00001f4e" lastModified="1537304920"/>
           <Include href="Assets/RampComponents/TObject_bluebackground.xml" loadImmediate="false" itemID="5b181f53-0000025b" lastModified="1528307539"/>
-          <Include href="Assets/RampSim Assets/CAngleCue.xml" itemID="48bab70d-000001ba" lastModified="1220206735"/>
+          <Include href="Assets/RampSim Assets/CAngleCueHigh.xml" loadImmediate="false" itemID="5bba362e-000020d2" lastModified="1538930224"/>
+          <Include href="Assets/RampSim Assets/CAngleCueLow.xml" loadImmediate="false" itemID="5bba3628-000020d1" lastModified="1538930241"/>
           <Include href="Assets/RampSim Assets/CBall Assets/CballRed.xml" loadImmediate="false" itemID="48bd96e5-000001f9" lastModified="1226441870"/>
           <Include href="Assets/RampSim Assets/CBall Assets/CballYellow copy.xml" loadImmediate="false" itemID="5b92ecd1-0000183a" lastModified="1529087642"/>
           <Include href="Assets/RampSim Assets/CBall Assets/TC_TObject__CballPink.xml" loadImmediate="false" itemID="5ba16939-00001f4b" lastModified="1537305779"/>
@@ -74,16 +77,23 @@
           <Include href="Assets/RampSim Assets/CGate Assets/CGateSolid.xml" itemID="48bd96e5-0000020b" lastModified="1273678482"/>
           <Include href="Assets/RampSim Assets/CGrab Assets/Arrow1.xml" itemIcon="1" loadImmediate="false" itemID="48bd96e5-000001ed" lastModified="1226433252"/>
           <Include href="Assets/RampSim Assets/CGrab Assets/CGrabSolid.xml" itemID="48bd96e5-000001ea" lastModified="1273798178"/>
-          <Include href="Assets/RampSim Assets/Cincline Assets/CinclineRoughNew.xml" loadImmediate="false" itemID="5a81ab3b-0000041c" lastModified="1518447419"/>
+          <Include href="Assets/RampSim Assets/Cincline Assets/CinclineRoughNew.xml" loadImmediate="false" itemID="5a81ab3b-0000041c" lastModified="1538930963"/>
           <Include href="Assets/RampSim Assets/Cincline Assets/CinclineSmooth.xml" itemID="48bada90-00000248" lastModified="1220205264"/>
           <Include href="Assets/RampSim Assets/CRamp Assets/CangleCueOutline.xml" itemID="48bac652-000001e7" lastModified="1220200081"/>
           <Include href="Assets/RampSim Assets/CRamp Assets/CangleCueSolid.xml" itemID="48bac655-000001e8" lastModified="1226434943"/>
           <Include href="Assets/RampSim Assets/CRamp Assets/CangleMask.xml" itemID="48bab785-000001c4" lastModified="1220205247"/>
           <Include href="Assets/RampSim Assets/CScale Assets/Carrow.xml" itemIcon="1" loadImmediate="false" itemID="48badfe4-00000257" lastModified="1220206564"/>
           <Include href="Assets/RampSim Assets/Misc Assets/CHinge.xml" itemID="48bd96e5-000001f0" lastModified="1220195687"/>
+          <Include href="Assets/RampSim Assets/TC_TObject__RampNotSteep.xml" loadImmediate="false" itemID="5bba35d4-00002046" lastModified="1538931301"/>
+          <Include href="Assets/RampSim Assets/TC_TObject__RampSteep.xml" loadImmediate="false" itemID="5bba35c0-00002019" lastModified="1538931189"/>
+          <Include href="Assets/RampSim Assets/TC_TObject__StartingGate.xml" loadImmediate="false" itemID="5bba36b7-00002139" lastModified="1538930451"/>
+          <Include href="Assets/TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
+          <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1538925235"/>
+          <Include href="Components/Expt Assets/TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba4355-000022ef" lastModified="1538933589"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956fd9-00000b30" lastModified="1537036701"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956fdd-00000b31" lastModified="1537036703"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b956fe1-00000b32" lastModified="1537305728"/>
+          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9106-00002ec0" lastModified="1539019017"/>
           <Include href="Exports/TL_Ramps__Movie.xml" loadImmediate="false" itemID="5b956fe5-00000b33" lastModified="1536520165"/>
           <Include href="Exports/TL_Ramps__RQintro1.xml" loadImmediate="false" itemID="5b9587e5-00000f82" lastModified="1536526309"/>
           <Include href="Exports/TL_Ramps__RQintro2.xml" loadImmediate="false" itemID="5b9587f6-00000f8b" lastModified="1536526326"/>
@@ -105,7 +115,7 @@
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1" currentFrame="3">
+          <DOMTimeline name="Scene 1" currentFrame="4">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -130,7 +140,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Module Content" color="#9933CC" locked="true" autoNamed="false">
+                    <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -176,7 +186,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Module Component" color="#00FFFF" locked="true" current="true" isSelected="true" autoNamed="false" visible="false">
+                    <DOMLayer name="Module Component" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>

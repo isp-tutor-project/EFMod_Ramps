@@ -34,7 +34,7 @@
                     <Point x="396.45" y="295.95"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCue" selected="true" centerPoint3DX="-101.05" centerPoint3DY="0.85">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCueHigh" selected="true" centerPoint3DX="-101.05" centerPoint3DY="0.85">
                   <matrix>
                     <Matrix a="1.03305053710938" d="1.03305053710938" tx="-275.4" ty="-64.3"/>
                   </matrix>

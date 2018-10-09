@@ -93,7 +93,7 @@
             </DOMFrame>
             <DOMFrame index="23" duration="96" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" left="63" width="18" height="35.75" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" left="62.3" width="19.4" height="35.8" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="186.35" ty="322.85"/>
                   </matrix>
@@ -101,7 +101,7 @@
                     <DOMTextRun>
                       <characters>9</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="35.75" size="32" bitmapSize="640" face="PTMono-Bold" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="35.8" size="32" bitmapSize="640" face="PTMono-Bold" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -291,7 +291,7 @@
           <frames>
             <DOMFrame index="0" duration="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCue" centerPoint3DX="174.8" centerPoint3DY="194.85">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCueHigh" centerPoint3DX="174.8" centerPoint3DY="194.85">
                   <matrix>
                     <Matrix a="1.03305053710938" d="1.03305053710938" tx="0.45" ty="129.7"/>
                   </matrix>
@@ -351,7 +351,7 @@
             </DOMFrame>
             <DOMFrame index="3" duration="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCue" centerPoint3DX="174.8" centerPoint3DY="194.85">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCueHigh" centerPoint3DX="174.8" centerPoint3DY="194.85">
                   <matrix>
                     <Matrix a="1.03305053710938" d="1.03305053710938" tx="0.45" ty="129.7"/>
                   </matrix>
@@ -411,7 +411,7 @@
             </DOMFrame>
             <DOMFrame index="6" duration="113" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCue" centerPoint3DX="174.8" centerPoint3DY="194.85">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCueHigh" centerPoint3DX="174.8" centerPoint3DY="194.85">
                   <matrix>
                     <Matrix a="1.03305053710938" d="1.03305053710938" tx="0.45" ty="129.7"/>
                   </matrix>

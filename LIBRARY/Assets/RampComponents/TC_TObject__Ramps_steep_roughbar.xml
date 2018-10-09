@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCue" selected="true" centerPoint3DX="29.8" centerPoint3DY="-0.2">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCueHigh" selected="true" centerPoint3DX="29.8" centerPoint3DY="-0.2">
                   <matrix>
                     <Matrix a="1.03305053710938" d="1.03305053710938" tx="-144.55" ty="-65.35"/>
                   </matrix>

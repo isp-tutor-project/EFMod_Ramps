@@ -1,14 +1,14 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/CAngleCue" itemID="48bab70d-000001ba" linkageExportForAS="true" linkageClassName="cmu.woz.rampsim.CAngleCue" lastModified="1220206735" lastUniqueIdentifier="6">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/CAngleCueLow" itemID="5bba3628-000020d1" lastModified="1538930241" lastUniqueIdentifier="6">
   <timeline>
-    <DOMTimeline name="CAngleCue">
+    <DOMTimeline name="CAngleCueLow">
       <layers>
-        <DOMLayer name="Angle Mask" color="#4FFF4F" autoNamed="false" layerType="mask">
+        <DOMLayer name="Angle Mask" color="#4FFF4F" current="true" isSelected="true" autoNamed="false" layerType="mask">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CRamp Assets/CangleMask" name="SangleMask">
                   <matrix>
-                    <Matrix a="0.7012939453125" b="0.452880859375" c="-0.452880859375" d="0.7012939453125" tx="247.1" ty="138.5"/>
+                    <Matrix a="0.794601440429688" b="0.255950927734375" c="-0.255950927734375" d="0.794601440429688" tx="246.7" ty="139.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="3.4" y="0.6"/>
@@ -31,11 +31,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="solid" color="#9933CC" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="solid" color="#9933CC" parentLayerIndex="0" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CRamp Assets/CangleCueSolid" name="Ssolid" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CRamp Assets/CangleCueSolid" name="Ssolid">
                   <matrix>
                     <Matrix tx="91.2" ty="-13.9"/>
                   </matrix>
