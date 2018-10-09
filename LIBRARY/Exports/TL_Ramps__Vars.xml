@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Exports/TL_Ramps__Vars" itemID="5b956fed-00000b35" lastModified="1536520173">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Exports/TL_Ramps__Vars" itemID="5b956fed-00000b35" lastModified="1539112964">
   <timeline>
     <DOMTimeline name="TL_Ramps__Vars">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMRectangleObject objectWidth="495.15" objectHeight="343.8" x="0" y="0" selected="true" lockFlag="true">
+                <DOMRectangleObject objectWidth="495.15" objectHeight="343.8" x="0" y="0" lockFlag="true">
                   <matrix>
                     <Matrix a="1.00015258789063"/>
                   </matrix>

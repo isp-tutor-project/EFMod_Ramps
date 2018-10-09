@@ -1,8 +1,11 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/TC_TObject__RampNotSteep" itemID="5bba35d4-00002046" lastModified="1538931301">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/TC_TObject__RampNotSteep" itemID="5bba35d4-00002046" lastModified="1539112244">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TObject__RampNotSteep">
       <layers>
-        <DOMLayer name="Grab" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Grab" color="#669900" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -18,7 +21,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Hinge" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Hinge" color="#FF4F4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -34,7 +37,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3a" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Svar3a" color="#00FFFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -50,7 +53,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3b" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -70,7 +73,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineRoughNew" name="Svar4a" centerPoint3DX="110.05" centerPoint3DY="119.45">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/TC_TObject__CinclineRoughNew" name="Svar4a" centerPoint3DX="110.05" centerPoint3DY="119.45">
                   <matrix>
                     <Matrix a="0.74517822265625" b="0.23992919921875" c="-0.23992919921875" d="0.74517822265625" tx="-0.45" ty="79.65"/>
                   </matrix>
@@ -82,11 +85,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4b" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Svar4b" color="#FF800A" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineSmooth" name="Svar4b" centerPoint3DX="110.6" centerPoint3DY="118.3">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/TC_TObject__CinclineSmooth" name="Svar4b" centerPoint3DX="110.6" centerPoint3DY="118.3">
                   <matrix>
                     <Matrix a="0.74517822265625" b="0.23992919921875" c="-0.23992919921875" d="0.74517822265625" ty="78.55"/>
                   </matrix>
@@ -98,14 +101,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_1" color="#00FFFF">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Base" color="#009999" autoNamed="false">
+        <DOMLayer name="Base" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -121,7 +117,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="AngleCue" color="#FF0000" autoNamed="false">
+        <DOMLayer name="AngleCue" color="#009999" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

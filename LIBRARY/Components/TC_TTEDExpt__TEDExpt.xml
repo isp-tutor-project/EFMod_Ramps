@@ -1,4 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TTEDExpt__TEDExpt" itemID="5bbb9106-00002ec0" linkageExportForAS="true" linkageClassName="TC_TTEDExpt__TEDExpt" lastModified="1539019017">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TTEDExpt__TEDExpt" itemID="5bbb9106-00002ec0" linkageExportForAS="true" linkageClassName="TC_TTEDExpt__TEDExpt" lastModified="1539021083">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TTEDExpt__TEDExpt">
       <layers>
@@ -6,7 +9,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/TC_TObject__RampNotSteep" name="Svar1a">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/TC_TObject__RampNotSteep" name="Svar1a" selected="true">
                   <matrix>
                     <Matrix a="2.39022827148438" d="2.39022827148438" tx="371.6" ty="128.85"/>
                   </matrix>

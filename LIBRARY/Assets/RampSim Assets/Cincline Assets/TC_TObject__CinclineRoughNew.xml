@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/Cincline Assets/CinclineRoughNew" itemID="5a81ab3b-0000041c" lastModified="1538930963">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/Cincline Assets/TC_TObject__CinclineRoughNew" itemID="5bbce0c6-00003899" lastModified="1539104966">
   <timeline>
-    <DOMTimeline name="CinclineRoughNew">
+    <DOMTimeline name="TC_TObject__CinclineRoughNew">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

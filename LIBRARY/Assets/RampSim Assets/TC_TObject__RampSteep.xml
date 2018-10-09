@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/TC_TObject__RampSteep" itemID="5bba35c0-00002019" lastModified="1538931189">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/TC_TObject__RampSteep" itemID="5bba35c0-00002019" lastModified="1539107305">
   <timeline>
     <DOMTimeline name="TC_TObject__RampSteep">
       <layers>
@@ -18,7 +18,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3b" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -66,11 +66,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4a" color="#00FFFF" autoNamed="false">
+        <DOMLayer name="Svar4a" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineRoughNew" name="Svar4a" centerPoint3DX="122.85" centerPoint3DY="91.4">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/TC_TObject__CinclineRoughNew" name="Svar4a" centerPoint3DX="122.85" centerPoint3DY="91.4">
                   <matrix>
                     <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="26.35" ty="24.4"/>
                   </matrix>
@@ -82,11 +82,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4b" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Svar4b" color="#9933CC" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineSmooth" name="Svar4b" centerPoint3DX="123.65" centerPoint3DY="90.45">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/TC_TObject__CinclineSmooth" name="Svar4b" selected="true" centerPoint3DX="123.65" centerPoint3DY="90.45">
                   <matrix>
                     <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="27.15" ty="23.45"/>
                   </matrix>

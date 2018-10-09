@@ -307,7 +307,7 @@
                     <Point x="41.5" y="0.8"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineSmooth" centerPoint3DX="155" centerPoint3DY="205.7">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/TC_TObject__CinclineSmooth" centerPoint3DX="155" centerPoint3DY="205.7">
                   <matrix>
                     <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="58.5" ty="138.7"/>
                   </matrix>
@@ -367,7 +367,7 @@
                     <Point x="41.5" y="0.8"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineSmooth" centerPoint3DX="155" centerPoint3DY="205.7">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/TC_TObject__CinclineSmooth" centerPoint3DX="155" centerPoint3DY="205.7">
                   <matrix>
                     <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="58.5" ty="138.7"/>
                   </matrix>
@@ -427,7 +427,7 @@
                     <Point x="41.5" y="0.8"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineSmooth" centerPoint3DX="155" centerPoint3DY="205.7">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/TC_TObject__CinclineSmooth" centerPoint3DX="155" centerPoint3DY="205.7">
                   <matrix>
                     <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="58.5" ty="138.7"/>
                   </matrix>

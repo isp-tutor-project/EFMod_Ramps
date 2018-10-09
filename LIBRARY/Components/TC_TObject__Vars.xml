@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956fe1-00000b32" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537305728">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956fe1-00000b32" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1539113109">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -9,12 +9,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramps_startingtop_yellow_steep" name="Svar1a" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsSteep" name="Svar1a">
                   <matrix>
-                    <Matrix a="2" d="2" tx="267.05" ty="184.3"/>
+                    <Matrix a="1.08499145507813" d="1.0849609375" tx="226.55" ty="232.4"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-53.3" y="58.65"/>
+                    <Point x="-53.25" y="58.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -25,9 +25,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramp_startingtop_notsteep_yellowball" name="Svar1b" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsNotSteep" name="Svar1a">
                   <matrix>
-                    <Matrix tx="247.6" ty="241.45"/>
+                    <Matrix tx="247.6" ty="241.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05"/>
@@ -53,7 +53,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2a" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar2a" color="#00FFFF" current="true" isSelected="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -73,12 +73,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramps_startingtop_yellow_steep" name="Svar3a" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsMiddle" name="Svar3a">
                   <matrix>
-                    <Matrix a="2.15623474121094" d="2.15623474121094" tx="249.2" ty="171.85"/>
+                    <Matrix a="0.999984741210938" d="0.999847412109375" tx="208.8" ty="241.1"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-53.25" y="58.7"/>
+                    <Point x="-53.2" y="58.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -89,12 +89,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramp_steep_middle_yellowball" name="Svar3b" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsTop" name="Svar3b">
                   <matrix>
-                    <Matrix a="2.15623474121094" d="2.15623474121094" tx="249.2" ty="171.85"/>
+                    <Matrix a="0.999984741210938" d="0.999847412109375" tx="208.8" ty="241.1"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-53.25" y="58.7"/>
+                    <Point x="-53.2" y="58.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -105,12 +105,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramps_steep_roughbar" name="Svar4a" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsRough" name="Svar4a">
                   <matrix>
-                    <Matrix a="2.137451171875" d="2.137451171875" tx="251.35" ty="173.35"/>
+                    <Matrix a="0.99127197265625" d="0.99114990234375" tx="245.45" ty="242"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-53.2" y="58.7"/>
+                    <Point x="-53.2" y="58.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -121,12 +121,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__Ramps_startingtop_yellow_steep" name="Svar4b" selected="true" centerPoint3DX="249.2" centerPoint3DY="171.9">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsSmooth" name="Svar4b" centerPoint3DX="247.65" centerPoint3DY="241.1">
                   <matrix>
-                    <Matrix a="2.15623474121094" d="2.15623474121094" tx="249.2" ty="171.85"/>
+                    <Matrix a="0.999984741210938" d="0.999847412109375" tx="247.6" ty="241.1"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-53.25" y="58.7"/>
+                    <Point x="-53.2" y="58.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

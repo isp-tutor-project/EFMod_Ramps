@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/TC_TObject__StartingGate" itemID="5bba36b7-00002139" lastModified="1538930451">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/TC_TObject__StartingGate" itemID="5bba36b7-00002139" lastModified="1539107055">
   <timeline>
     <DOMTimeline name="TC_TObject__StartingGate">
       <layers>
-        <DOMLayer name="CGateSolid" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="CGateSolid" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -18,11 +18,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="ball1" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Svar2b" color="#FF800A" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/TC_TObject__CballPink" name="ball1" centerPoint3DX="18.65" centerPoint3DY="18.65">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/TC_TObject__CballYellow" name="Svar2a" centerPoint3DX="18.65" centerPoint3DY="18.65">
                   <matrix>
                     <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="14.65"/>
                   </matrix>
@@ -34,11 +34,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="ball1" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Svar2b" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/TC_TObject__CballYellow" name="ball1" centerPoint3DX="18.65" centerPoint3DY="18.65">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/TC_TObject__CballPink" name="Svar2b" centerPoint3DX="18.65" centerPoint3DY="18.65">
                   <matrix>
                     <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="14.65"/>
                   </matrix>

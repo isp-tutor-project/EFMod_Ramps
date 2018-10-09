@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/TC_TObject__VarsNotSteep" itemID="5bbcfe32-00003ac9" lastModified="1539112669" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="TC_TObject__VarsNotSteep">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCueLow">
+                  <matrix>
+                    <Matrix a="2.58067321777344" d="2.58052062988281" tx="-408.85" ty="-272.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="88" y="130.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/graybar" centerPoint3DX="88.7" centerPoint3DY="95.6">
+                  <matrix>
+                    <Matrix a="1.74066162109375" d="1.7930908203125" tx="16.7" ty="94.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="0.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/TC_TObject__CinclineSmooth" centerPoint3DX="17.3" centerPoint3DY="21.85">
+                  <matrix>
+                    <Matrix a="1.49034118652344" b="0.479843139648438" c="-0.479843139648438" d="1.49034118652344" tx="-203.85" ty="-57.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="149.5" y="5.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CGrab Assets/CGrabSolid" centerPoint3DX="-223.2" centerPoint3DY="-55.55">
+                  <matrix>
+                    <Matrix a="1.49034118652344" b="0.479843139648438" c="-0.479843139648438" d="1.49034118652344" tx="-223.15" ty="-55.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Misc Assets/CHinge" centerPoint3DX="236.8" centerPoint3DY="91.5">
+                  <matrix>
+                    <Matrix a="1.31539916992188" b="0.8492431640625" c="-0.8492431640625" d="1.31539916992188" tx="236.8" ty="91.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -50,7 +50,7 @@
                     <Point x="41.5" y="0.8"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/CinclineSmooth" selected="true" centerPoint3DX="-120.85" centerPoint3DY="11.7">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/TC_TObject__CinclineSmooth" selected="true" centerPoint3DX="-120.85" centerPoint3DY="11.7">
                   <matrix>
                     <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="-217.35" ty="-55.3"/>
                   </matrix>
