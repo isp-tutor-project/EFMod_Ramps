@@ -1,31 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956fe1-00000b32" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1539113109">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956fe1-00000b32" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1539620619">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TObject__Vars">
       <layers>
-        <DOMLayer name="Svar1a" color="#FF0000" autoNamed="false" visible="false">
+        <DOMLayer name="Svar1a" color="#669900" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsSteep" name="Svar1a">
-                  <matrix>
-                    <Matrix a="1.08499145507813" d="1.0849609375" tx="226.55" ty="232.4"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="-53.25" y="58.65"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Svar1b" color="#669900" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsNotSteep" name="Svar1a">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsNotSteep" name="Svar1a" selected="true">
                   <matrix>
                     <Matrix tx="247.6" ty="241.1"/>
                   </matrix>
@@ -37,23 +21,23 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2b" color="#FF4F4F" autoNamed="false" visible="false">
+        <DOMLayer name="Svar1b" color="#FF0000" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/TC_TObject__CballPink" name="Svar2b">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsSteep" name="Svar1b" selected="true">
                   <matrix>
-                    <Matrix a="3.75" d="3.75" tx="182.9" ty="107.2"/>
+                    <Matrix a="1.08499145507813" d="1.0849609375" tx="226.55" ty="232.4"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="17.25" y="17.25"/>
+                    <Point x="-53.25" y="58.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2a" color="#00FFFF" current="true" isSelected="true" autoNamed="false" visible="false">
+        <DOMLayer name="Svar2a" color="#00FFFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -69,11 +53,27 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
+        <DOMLayer name="Svar2b" color="#FF4F4F" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/TC_TObject__CballPink" name="Svar2b" selected="true">
+                  <matrix>
+                    <Matrix a="3.75" d="3.75" tx="182.9" ty="107.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.25" y="17.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
         <DOMLayer name="Svar3a" color="#FF4FFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsMiddle" name="Svar3a">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsMiddle" name="Svar3a" selected="true">
                   <matrix>
                     <Matrix a="0.999984741210938" d="0.999847412109375" tx="208.8" ty="241.1"/>
                   </matrix>
@@ -89,7 +89,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsTop" name="Svar3b">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsTop" name="Svar3b" selected="true">
                   <matrix>
                     <Matrix a="0.999984741210938" d="0.999847412109375" tx="208.8" ty="241.1"/>
                   </matrix>
@@ -105,7 +105,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsRough" name="Svar4a">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsRough" name="Svar4a" selected="true">
                   <matrix>
                     <Matrix a="0.99127197265625" d="0.99114990234375" tx="245.45" ty="242"/>
                   </matrix>
@@ -117,11 +117,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4b" color="#FF800A" autoNamed="false" visible="false">
+        <DOMLayer name="Svar4b" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsSmooth" name="Svar4b" centerPoint3DX="247.65" centerPoint3DY="241.1">
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/TC_TObject__VarsSmooth" name="Svar4b" selected="true" centerPoint3DX="247.65" centerPoint3DY="241.1">
                   <matrix>
                     <Matrix a="0.999984741210938" d="0.999847412109375" tx="247.6" ty="241.1"/>
                   </matrix>

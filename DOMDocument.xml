@@ -22,9 +22,9 @@
           <DOMFolderItem name="Assets/RampSim Assets/Misc Assets" itemID="4d6aa060-0000051c"/>
           <DOMFolderItem name="Components" itemID="5b92ec91-000017b9"/>
           <DOMFolderItem name="Components/Expt Assets" itemID="5bba3bd4-00002286"/>
-          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
+          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
      <media>
           <DOMBitmapItem name="Assets/RampComponents/3DGridWall.png" itemID="48a9c877-000017c7" sourceLastImported="1216650312" originalCompressionType="lossless" quality="50" href="Assets/RampComponents/3DGridWall.png" bitmapDataHRef="M 2 1536343148.dat" frameRight="20480" frameBottom="15360"/>
@@ -96,8 +96,8 @@
           <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1538925235"/>
           <Include href="Components/Expt Assets/TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba4355-000022ef" lastModified="1538933589"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956fd9-00000b30" lastModified="1537036701"/>
-          <Include href="Components/TC_TObject__Topic.xml" itemID="5b956fdd-00000b31" lastModified="1537036703"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956fe1-00000b32" lastModified="1539113109"/>
+          <Include href="Components/TC_TObject__Topic.xml" itemID="5b956fdd-00000b31" lastModified="1539620637"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956fe1-00000b32" lastModified="1539620619"/>
           <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9106-00002ec0" lastModified="1539021083"/>
           <Include href="Exports/TL_Ramps__Movie.xml" loadImmediate="false" itemID="5b956fe5-00000b33" lastModified="1536520165"/>
           <Include href="Exports/TL_Ramps__RQintro1.xml" loadImmediate="false" itemID="5b9587e5-00000f82" lastModified="1536526309"/>
