@@ -20,9 +20,9 @@
           <DOMFolderItem name="Assets/RampSim Assets/CRamp Assets" itemID="4d6aa060-0000054a"/>
           <DOMFolderItem name="Assets/RampSim Assets/CScale Assets" itemID="4d6aa060-00000547"/>
           <DOMFolderItem name="Assets/RampSim Assets/Misc Assets" itemID="4d6aa060-0000051c"/>
-          <DOMFolderItem name="Components" itemID="5b92ec91-000017b9"/>
+          <DOMFolderItem name="Components" itemID="5b92ec91-000017b9" isExpanded="true"/>
           <DOMFolderItem name="Components/Expt Assets" itemID="5bba3bd4-00002286"/>
-          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
+          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
