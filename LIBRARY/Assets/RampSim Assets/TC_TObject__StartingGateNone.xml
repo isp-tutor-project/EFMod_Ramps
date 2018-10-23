@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampSim Assets/TC_TObject__StartingGateNone" itemID="5bcf810c-00000d2f" lastModified="1540325827">
+  <timeline>
+    <DOMTimeline name="TC_TObject__StartingGateNone">
+      <layers>
+        <DOMLayer name="CGateSolid" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CGate Assets/CGateSolid" centerPoint3DX="29.6" centerPoint3DY="35.15">
+                  <matrix>
+                    <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="18.7" ty="44.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="-17.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar2b" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CBall Assets/TC_TObject__CballNone" name="Svar2a" centerPoint3DX="18.65" centerPoint3DY="18.65">
+                  <matrix>
+                    <Matrix a="0.657699584960938" b="0.42462158203125" c="-0.42462158203125" d="0.657699584960938" tx="14.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.25" y="17.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

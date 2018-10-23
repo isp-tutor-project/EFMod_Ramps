@@ -1,12 +1,28 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/TC_TObject__VarsMiddle" itemID="5bbcff6b-00003b8e" lastModified="1540325749" lastUniqueIdentifier="6">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RampComponents/TC_TObject__VarsTop2" itemID="5bcf8218-00000e2b" lastModified="1540325912" lastUniqueIdentifier="6">
   <timeline>
-    <DOMTimeline name="TC_TObject__VarsMiddle">
+    <DOMTimeline name="TC_TObject__VarsTop2">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/TC_TObject__CinclineNone" centerPoint3DX="42.8" centerPoint3DY="-32.55">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/CAngleCueHigh">
+                  <matrix>
+                    <Matrix a="2.57736206054688" d="2.57722473144531" tx="-409.1" ty="-273.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.45" y="119.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampComponents/graybar" centerPoint3DX="88.7" centerPoint3DY="95.6">
+                  <matrix>
+                    <Matrix a="1.74066162109375" d="1.7930908203125" tx="16.7" ty="94.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="0.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/Cincline Assets/TC_TObject__CinclineSmooth" centerPoint3DX="42.8" centerPoint3DY="-32.55">
                   <matrix>
                     <Matrix a="1.31536865234375" b="0.849197387695313" c="-0.849197387695313" d="1.31536865234375" tx="-150.2" ty="-166.55"/>
                   </matrix>
@@ -30,9 +46,9 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/TC_TObject__StartingGateNone">
+                <DOMSymbolInstance libraryItemName="Assets/RampSim Assets/TC_TObject__StartingGate">
                   <matrix>
-                    <Matrix a="1.7911376953125" d="1.7911376953125" tx="-13.6" ty="-120.65"/>
+                    <Matrix a="1.7911376953125" d="1.7911376953125" tx="-141.05" ty="-203.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="26.9" y="31.55"/>
