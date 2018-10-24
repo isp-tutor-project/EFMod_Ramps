@@ -9,14 +9,14 @@
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
-          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e" isExpanded="true"/>
-          <DOMFolderItem name="Assets/RampComponents" itemID="5b92ebf1-000017b2" isExpanded="true"/>
-          <DOMFolderItem name="Assets/RampSim Assets" itemID="4d6aa060-000004f5" isExpanded="true"/>
-          <DOMFolderItem name="Assets/RampSim Assets/CBall Assets" itemID="4d6aa060-00000520" isExpanded="true"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
+          <DOMFolderItem name="Assets/RampComponents" itemID="5b92ebf1-000017b2"/>
+          <DOMFolderItem name="Assets/RampSim Assets" itemID="4d6aa060-000004f5"/>
+          <DOMFolderItem name="Assets/RampSim Assets/CBall Assets" itemID="4d6aa060-00000520"/>
           <DOMFolderItem name="Assets/RampSim Assets/CBase Assets" itemID="4d6aa060-0000053c"/>
           <DOMFolderItem name="Assets/RampSim Assets/CGate Assets" itemID="4d6aa060-0000051e"/>
           <DOMFolderItem name="Assets/RampSim Assets/CGrab Assets" itemID="4d6aa060-00000522"/>
-          <DOMFolderItem name="Assets/RampSim Assets/Cincline Assets" itemID="4d6aa060-0000051a" isExpanded="true"/>
+          <DOMFolderItem name="Assets/RampSim Assets/Cincline Assets" itemID="4d6aa060-0000051a"/>
           <DOMFolderItem name="Assets/RampSim Assets/CRamp Assets" itemID="4d6aa060-0000054a"/>
           <DOMFolderItem name="Assets/RampSim Assets/CScale Assets" itemID="4d6aa060-00000547"/>
           <DOMFolderItem name="Assets/RampSim Assets/Misc Assets" itemID="4d6aa060-0000051c"/>
@@ -39,7 +39,7 @@
           <Include href="_HTMLControls/TC_THtmlTable__Assets/tablearea.xml" loadImmediate="false" itemID="5b5f40c1-000002dc" lastModified="1533050778"/>
           <Include href="_HTMLControls/TC_THtmlTable__Table1.xml" loadImmediate="false" itemID="5b5f91bf-00000347" lastModified="1534019420"/>
           <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
-          <Include href="_HTMLControls/TC_THtmlText__CallOutText.xml" loadImmediate="false" itemID="5bb8f667-00001782" lastModified="1538856249"/>
+          <Include href="_HTMLControls/TC_THtmlText__CallOutText.xml" loadImmediate="false" itemID="5bb8f667-00001782" lastModified="1540327892"/>
           <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/contentFrame.xml" loadImmediate="false" itemID="5b8db279-000005f6" lastModified="1536012921"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets/playButtonTop.xml" loadImmediate="false" itemID="5b9e99fb-00000b68" lastModified="1537120902"/>
@@ -97,12 +97,12 @@
           <Include href="Assets/RampSim Assets/TC_TObject__StartingGate.xml" loadImmediate="false" itemID="5bba36b7-00002139" lastModified="1539107055"/>
           <Include href="Assets/RampSim Assets/TC_TObject__StartingGateNone.xml" loadImmediate="false" itemID="5bcf810c-00000d2f" lastModified="1540325827"/>
           <Include href="Assets/TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
-          <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1538925235"/>
+          <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1540327960"/>
           <Include href="Components/Expt Assets/TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba4355-000022ef" lastModified="1538933589"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956fd9-00000b30" lastModified="1537036701"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956fdd-00000b31" lastModified="1539620637"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b956fe1-00000b32" lastModified="1540325989"/>
-          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9106-00002ec0" lastModified="1539021083"/>
+          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9106-00002ec0" lastModified="1540327988"/>
           <Include href="Exports/TL_Ramps__Movie.xml" loadImmediate="false" itemID="5b956fe5-00000b33" lastModified="1536520165"/>
           <Include href="Exports/TL_Ramps__RQintro1.xml" loadImmediate="false" itemID="5b9587e5-00000f82" lastModified="1536526309"/>
           <Include href="Exports/TL_Ramps__RQintro2.xml" loadImmediate="false" itemID="5b9587f6-00000f8b" lastModified="1536526326"/>
